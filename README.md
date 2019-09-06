@@ -28,6 +28,6 @@ regular expressions using standard Python syntax.
 
 ## Homepage
 
-All of the bourbaki submodules are maintained [here](gihttps://github.com/bourbaki-py/)
+All of the bourbaki submodules are maintained [here](https://github.com/bourbaki-py/)
 
 In the spirit of the original Bourbaki group, contributions are welcome.
