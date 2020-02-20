@@ -1,4 +1,4 @@
-# b∅∪ℝb∀k𝒊
+# b∅∪ℝb∀ki
 
 ## Python on a firm foundation
 
